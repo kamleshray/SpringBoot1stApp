@@ -12,6 +12,7 @@ import com.test.MessageConverter;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class MessageCoverterTest {
+	
 	@Autowired
 	private MessageConverter converter;
 
